@@ -1,3 +1,13 @@
+# .gitignore
+
+## OS
+.DS_Store
+desktop.ini
+
+## IDE
+.vscode/
+
+## Project
 Make.defines
 Makefile
 config.h
